@@ -1,0 +1,34 @@
+{
+  "site": [
+    {
+      "locale": "en",
+      "items": [
+        {
+          "id": "1f035ec3-6e93-4a8b-8781-eb6939d15b08",
+          "kind": "link",
+          "label": "Home",
+          "icon": "mdi-home",
+          "targetType": "home",
+          "target": "/",
+          "visibilityMode": "all",
+          "visibilityGroups": null
+        }
+      ]
+    },
+    {
+      "locale": "ru",
+      "items": [
+        {
+          "id": "1b8a234b-e620-4021-9d48-724b1ea369c9",
+          "kind": "link",
+          "label": "!Старая wiki",
+          "icon": "mdi-chevron-right",
+          "targetType": "page",
+          "target": "/ru/old_wiki/главная",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        }
+      ]
+    }
+  ]
+}
